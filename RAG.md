@@ -3501,7 +3501,3 @@ The final mental model you want in your head is simply:
 
 Once that clicks, most RAG architectures you encounter are just increasingly sophisticated ways of making **retrieval → context → generation** more accurate, efficient, secure, and maintainable.
 
-
-
----
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)

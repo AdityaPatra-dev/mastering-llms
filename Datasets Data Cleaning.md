@@ -3101,8 +3101,3 @@ save final dataset
 Then you'll have the exact foundation needed before moving into your **SFT → LoRA → QLoRA practical training project**.
 
 And one particularly important next step for you is **tokenization in practice**: you've learned what tokenization is conceptually, but now you should learn how to take this cleaned dataset and use a Hugging Face tokenizer to produce the actual `input_ids`, `attention_mask`, labels, padding, truncation, and chat-template output that SFT training consumes.
-
-
-
----
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)

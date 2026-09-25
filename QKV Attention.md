@@ -2252,8 +2252,3 @@ $$
 $$
 
 Once this becomes intuitive, **multi-head attention, Transformer blocks, GPT architecture, KV cache, cross-attention, and eventually LLM inference optimization become much easier to understand.**
-
-
-
----
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)

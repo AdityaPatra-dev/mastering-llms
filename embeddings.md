@@ -2655,7 +2655,3 @@ Answer
 
 Once **tokenization → embeddings → Q/K/V → attention → Transformer architecture** all click together, you have the core conceptual pipeline of a modern Transformer-based LLM.
 
-
-
----
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)

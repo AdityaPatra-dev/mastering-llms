@@ -2845,8 +2845,3 @@ And during inference:
 **That is the fundamental engine behind a decoder-only LLM.**
 
 And now, when you move to **pretraining, fine-tuning and LoRA**, the key question becomes much simpler: *what data do we give this next-token predictor, what tokens do we calculate the loss on, and which parameters do we allow to change?*
-
-
-
----
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)

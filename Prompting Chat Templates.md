@@ -3234,7 +3234,3 @@ You don't need to memorize hundreds of prompting tricks. You should be able to:
 
 **The single practical exercise I'd do next:** take one local Hugging Face instruct model, print its `tokenizer.chat_template`, run `apply_chat_template()` on a 2–3 message conversation, inspect the resulting text, then tokenize it and run generation. Once you've physically seen **messages → template → tokens → generated tokens**, the entire concept becomes much easier to reason about.
 
-
-
----
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)

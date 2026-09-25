@@ -2802,7 +2802,3 @@ And **LoRA/QLoRA are techniques that make this adaptation much cheaper by avoidi
 
 If you understand the pipeline above, you have the conceptual foundation needed to start **actually fine-tuning a Hugging Face model**, rather than just knowing the terminology.
 
-
-
----
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)

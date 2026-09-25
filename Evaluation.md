@@ -2638,7 +2638,3 @@ That is the core of **evaluation in practical LLM engineering**.
 
 And when you eventually build your own Hugging Face projects, don't think of evaluation as **"calculate a score at the end."** Think of it as the mechanism that tells you **whether your model actually works, where it fails, and what you should change next.**
 
-
-
----
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)

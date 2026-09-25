@@ -3528,7 +3528,3 @@ You've essentially been building the stack in the right direction:
 
 The **next practical step** after understanding this theory is not another huge amount of theory. Build a tiny Hugging Face inference script, measure **tokens/sec + VRAM + latency**, then turn it into a **FastAPI streaming endpoint**, and finally run the same model through **Ollama/vLLM** so you can directly see what an inference engine/serving layer actually adds.
 
-
-
----
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)

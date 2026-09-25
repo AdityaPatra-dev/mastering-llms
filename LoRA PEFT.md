@@ -2912,7 +2912,3 @@ It dramatically reduces the number of trainable parameters and associated traini
 
 If those 12 answers make intuitive sense rather than just being memorized, **you understand the core of LoRA/PEFT well enough to start implementing it.** The next major step is learning **QLoRA + dataset preparation + an actual Hugging Face training script**, because that's where the theory turns into something you can run on your own machine.
 
-
-
----
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)

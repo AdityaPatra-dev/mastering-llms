@@ -2516,7 +2516,3 @@ Given your goal of becoming practically capable with LLMs, the natural sequence 
 
 The **most important next concept is embeddings**, because you now know how `"machine learning"` becomes token IDs; the next question is **how those IDs become vectors that a Transformer can actually reason over**.
 
-
-
----
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)

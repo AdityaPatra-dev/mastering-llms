@@ -2801,7 +2801,3 @@ That's the basic mechanism behind a modern autoregressive LLM.
 
 If you can trace **one token from tokenizer → embedding → Q/K/V → attention scores → softmax → weighted values → multi-head output → FFN → repeated Transformer blocks → logits → next-token prediction**, you have moved beyond merely knowing the word *Transformer*—you understand the computational pipeline you will actually implement in PyTorch.
 
-
-
----
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)

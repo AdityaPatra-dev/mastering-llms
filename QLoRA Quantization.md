@@ -3320,8 +3320,3 @@ RAG   = HOW you provide external knowledge
 ```
 
 Once these four are clear, modern Hugging Face fine-tuning becomes much less confusing.
-
-
-
----
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)
